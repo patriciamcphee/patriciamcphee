@@ -1,6 +1,6 @@
 # Hi, I'm Patricia McPhee 👋
 
-Technical Content Manager and Developer Experience practitioner with 20+ years documenting APIs, SDKs, and developer platforms. I specialize in documentation architecture, docs-as-code workflows, and content systems that scale across engineering organizations.
+Technical Content Manager and Developer Experience practitioner with 15+ years documenting APIs, SDKs, and developer platforms. I specialize in documentation architecture, docs-as-code workflows, and content systems that scale across engineering organizations.
 
 Currently building at [PixlnGrid Studios](https://pixlngrid.com) and managing developer documentation for Cigna's internal developer portal, [Alchemy](https://alchemy.cigna.com), built on Backstage.
 
